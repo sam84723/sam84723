@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Samuel Hayat! 👋
 
-<!--
-**sam84723/sam84723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20NLP-blueviolet?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Education-B.Sc.%20Computer%20Science%20%40HUJI-blue?style=flat-square" alt="Education">
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Prototypes-success?style=flat-square" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+I am a **Machine Learning Engineer** with a solid Computer Science foundation and a Full-Stack background. I specialize in **ML/DL, NLP**, and building end-to-end applied AI prototypes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Technologies & Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Google%20Gemini-Active-blue?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-Active-indigo?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+---
+
+### 🎓 AI Training & Certifications
+
+- 🤖 **Anthropic** | Prompt Engineering Interactive Tutorial *(Advanced prompt design, XML tags, hallucination reduction)*
+- 🏢 **Anthropic Academy** | AI Fluency: Frameworks & Foundations *(Enterprise AI use-cases & safety)*
+- ☁️ **Google Cloud** | Introduction to Generative AI & Gemini Studio *(LLM integration for clinical decision support )*
+
+---
+
+### 🚀 Highlighted Projects
+
+- 🏥 **AI for Healthcare** | Integrated Gemini LLM API to provide clinical decision support for patient monitoring interfaces.
+- 🌋 **Seismic Signal Analysis** | Developed a 1D CNN to predict earthquake magnitude from initial MSEED signals.
+- 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for a multidisciplinary research game.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam84723&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam84723&theme=dark&hide_border=true&layout=compact&bg_color=121212&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%">
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-hayat-b66b62258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:samuel.hayat50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
