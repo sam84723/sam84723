@@ -14,12 +14,13 @@ I am a **Machine Learning Engineer** with a solid Computer Science foundation an
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Google%20Gemini-Active-blue?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-Active-indigo?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Google%20Gemini-Active-blue?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-Active-indigo?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic Claude">
 </p>
 
 ---
@@ -34,9 +35,9 @@ I am a **Machine Learning Engineer** with a solid Computer Science foundation an
 
 ### 🚀 Highlighted Projects
 
-- 🏥 **AI for Healthcare** | Integrated Gemini LLM API to provide clinical decision support for patient monitoring interfaces.
-- 🌋 **Seismic Signal Analysis** | Developed a 1D CNN to predict earthquake magnitude from initial MSEED signals.
-- 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for a multidisciplinary research game.
+- 🌋 **[Seismic Signal Analysis](https://github.com/sam84723/seismic_magnitude_predictor)** | Developed a 1D CNN to predict earthquake magnitude from initial part of MSEED signals using PyTorch.
+- 🏥 **[AI for Healthcare (HUJI Hackathon)](https://github.com/Noamshabat1/HUJI-Hackathon-2025)** | Frontend development & Gemini LLM API integration within a multidisciplinary team to build a clinical decision support system.
+- 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for an interactive game within a multidisciplinary research team.
 
 ---
 
