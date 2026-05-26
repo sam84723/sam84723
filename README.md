@@ -44,8 +44,8 @@ I am a **Machine Learning Engineer** with a solid Computer Science foundation an
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam84723&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam84723&theme=dark&hide_border=true&layout=compact&bg_color=121212&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-six-purple.vercel.app/api?username=sam84723&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-six-purple.vercel.app/api/top-langs/?username=sam84723&theme=dark&hide_border=true&layout=compact&bg_color=121212&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%">
 </p>
 
 ---
