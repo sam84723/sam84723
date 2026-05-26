@@ -41,9 +41,6 @@ I am a **Machine Learning Engineer** with a solid Computer Science foundation an
 - 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for an interactive academic research game within a multidisciplinary team. *(Private Repository)*
 ---
 
-### 📊 GitHub Analytics
-
----
 
 ### 📊 GitHub Analytics
 
