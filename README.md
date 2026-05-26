@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20NLP-blueviolet?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Education-B.Sc.%20Computer%20Science%20%40HUJI-blue?style=flat-square" alt="Education">
+  <img src="https://img.shields.io/badge/Education-Formation%20Fullstack%20%20%40Kernelios-yellow?style=flat-square" alt="Education">
   <img src="https://img.shields.io/badge/Status-Building%20AI%20Prototypes-success?style=flat-square" alt="Status">
 </p>
 
