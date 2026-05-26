@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel Hayat! 👋
+# Hi 👋, I'm Samuel
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20NLP-blueviolet?style=flat-square" alt="Focus">
