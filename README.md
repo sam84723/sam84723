@@ -37,8 +37,7 @@ I am a **Machine Learning Engineer** with a solid Computer Science foundation an
 
 - 🌋 **[Seismic Signal Analysis](https://github.com/sam84723/seismic_magnitude_predictor)** | Developed a 1D CNN to predict earthquake magnitude from initial part of MSEED signals using PyTorch.
 - 🏥 **[AI for Healthcare (HUJI Hackathon)](https://github.com/Noamshabat1/HUJI-Hackathon-2025)** | Frontend development & Gemini LLM API integration within a multidisciplinary team to build a clinical decision support system.
-- 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for an interactive game within a multidisciplinary research team.
-
+- 🎮 **Research Game @HUJI** | Implemented frontend logic and backend integrations for an interactive academic research game within a multidisciplinary team. *(Private Repository)*
 ---
 
 ### 📊 GitHub Analytics
